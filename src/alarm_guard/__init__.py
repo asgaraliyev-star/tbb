@@ -1,0 +1,1 @@
+"""AlarmGuard package."""
